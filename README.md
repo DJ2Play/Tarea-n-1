@@ -8,5 +8,12 @@
   1. It is great to learn new things
   2. It is cold outside and i'd like to have a rest now
   
-  Nowadays, I like to play videaogames, and this is one of them I have been playing a lot with my bother:
-  [logo]: http://statics.vrutal.com/m/ef55/ef550dcce21575f93d8595c44f220121.jpg
+  Nowadays, I like to play videogames, and this is one of them I have been playing a lot with my bother 
+  
+  ![alt text](https://www.technobuffalo.com/wp-content/uploads/2012/09/borderlands2logo-1-470x310@2x.jpg)
+  
+ 
+ Yeah, love this "hand-made graphics" and I'd love to be in a project like that.
+          ###Hope that was enough to talk but here is the **markdown**
+          
+          
