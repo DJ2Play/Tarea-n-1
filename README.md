@@ -9,4 +9,4 @@
   2. It is cold outside and i'd like to have a rest now
   
   Nowadays, I like to play videaogames, and this is one of them I have been playing a lot with my bother:
-  [logo]: http://mms.businesswire.com/bwapps/mediaserver/ViewMedia?mgid=285831&vid=5 
+  [logo]: http://statics.vrutal.com/m/ef55/ef550dcce21575f93d8595c44f220121.jpg
