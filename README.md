@@ -1,4 +1,4 @@
-#Task number 1
+  # Task number 1
 
 1st Test
 
@@ -14,6 +14,6 @@
   
  
  Yeah, love this "hand-made graphics" and I'd love to be in a project like that.
-          ###Hope that was enough to talk but here is the **markdown**
+ ###### Hope that was enough to talk but here is the *markdown*
           
           
